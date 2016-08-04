@@ -1,0 +1,122 @@
+#pack{
+  
+  background-image : url(PICTURE/carbon042.png);
+
+
+  
+  width : 1000px;
+  line-height : 1.4;
+  
+
+  margin-top : 10px;
+}
+
+#headder{
+  background-color : black;
+  width : 1000px;
+  height : 50px;
+  
+
+  bottom : auto;
+}
+#headder ul{
+  font-weight : bold;
+  width : 600px;
+  height : 50px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+
+#headder li{
+  width : 140px;
+  height : 48px;
+  float : left;
+}
+
+#top{
+  width : 1000px;
+  
+  clear : both;
+  background-color : black;
+  margin-top : 0pt;
+  margin-left : 0pt;
+  margin-right : 0pt;
+  margin-bottom : 0pt;
+}
+
+#main{
+  width : 800px;
+  
+  float : left;
+  clear : both;
+  margin-top : 10px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  
+}
+
+#side{
+  width : 200px;
+  height : 200px;
+  float : right;
+  clear : none;
+}
+
+#caution{
+  width : 1000px;
+  clear : both;
+  height : 20px;
+}
+
+#footer{
+  width : 1000px;
+  height : 50px;
+  clear : both;
+  background-color : black;
+}
+
+body{
+  background-color : black;
+}
+
+#main p{
+  margin-top : 20px;
+  margin-left : 20px;
+  margin-right : 20px;
+  margin-bottom : 20px;
+  font-size : 11pt;
+  line-height : 1.4;
+}
+
+
+hr{
+  color : silver;
+}
+
+td{
+  line-height : 1.5;
+}
+
+#main hr{
+  color : gray;
+  
+}
+
+a{
+  text-decoration : none;
+}
+
+a:hover{
+  color : #cc0000;
+  text-decoration : underline;
+}
+
+#pack2{
+  background-color : #f9f9f9;
+  margin-top : 10px;
+  width : 1000px;
+  line-height : 1.4;
+}
